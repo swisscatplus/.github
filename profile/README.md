@@ -1,7 +1,7 @@
 # SwissCAT+
 
 <div style="width: 100%; display: flex; align-items: center; justify-content: space-between;">
-    <img style="width: 30%" src="//images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/d7731755-2fa3-4548-bf1e-5a25182d67ae/Combined+Logo+CAT-ETH-EPFL+%282%29.png?format=1500w">
+    <img style="width: 30%" src="https://images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/d7731755-2fa3-4548-bf1e-5a25182d67ae/Combined+Logo+CAT-ETH-EPFL+%282%29.png?format=1500w">
     <div>A data-driven infrastructure for catalysts discovery and optimization</div>
 </div>
 
