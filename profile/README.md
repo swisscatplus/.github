@@ -25,6 +25,9 @@ Initiated by Prof. Dr. Christophe Copéret (ETHZ) and Prof. Dr. Nicolai Cramer (
                 <img width="250" src="https://images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/1612194758597-UAVG9IIBRMXHMYQXDAF3/EPFL_campus_2017-1920x1080.jpg">
             </a>
             <div style="text-align: center">Located within the Ecole Polytechnique Federale de Lausanne (EPFL) premises, CAT+ West focuses on homogeneous catalysis.</div>
+            <a href="https://swisscatplus.github.io/lab_doc.github.io/">
+                <p>Our documentation is available here</p>
+            </a>
         </td>
         <td>
             <h2>CAT+ West Hub</h2>
@@ -32,9 +35,6 @@ Initiated by Prof. Dr. Christophe Copéret (ETHZ) and Prof. Dr. Nicolai Cramer (
                 <img width="250" src="https://images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/1612194782934-KB2PY51M21A38OIE7SQT/ETHZ+city.jpg">
             </a>
             <div style="text-align: center">CAT+ East, located at the Eidgenössische Technische Hochschule Zürich (ETHZ), focuses on heterogeneous catalysts R&D.</div>
-            <a href="https://swisscatplus.github.io/lab_doc.github.io/">
-                <p>Our documentation is available here</p>
-            </a>
         </td>
     </tr>
 </table>
