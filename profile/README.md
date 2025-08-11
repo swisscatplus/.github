@@ -1,9 +1,9 @@
-# SwissCAT+
+# Swiss Cat+ West Hub deposit
 
 <table style="border: none;">
     <tr>
         <td><img width="200px" src="https://images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/d7731755-2fa3-4548-bf1e-5a25182d67ae/Combined+Logo+CAT-ETH-EPFL+%282%29.png?format=1500w"></td>
-        <td>A data-driven infrastructure for catalysts discovery and optimization</td>
+        <td>A data-driven robotized high-throughput research infrastructure for catalysts discovery and optimization</td>
     </tr>
 </table>
 
@@ -13,9 +13,7 @@ Our goal is to establish a world-leading technology platform combining cutting-e
 
 SwissCAT+ aims to be an open-access facility for the Swiss scientific community devoted to developing sustainable catalytic processes.
 
-## Inception
-
-Initiated by Prof. Dr. Christophe Copéret (ETHZ) and Prof. Dr. Nicolai Cramer (EPFL), SwissCAT+ (CAT+) is a project funded by ETH Domain, divided into two Hubs:
+## Contacts
 
 <table style="border: none;">
     <tr>
@@ -28,13 +26,6 @@ Initiated by Prof. Dr. Christophe Copéret (ETHZ) and Prof. Dr. Nicolai Cramer (
             <a href="https://swisscatplus.github.io/lab_doc.github.io/">
                 <p>Our documentation is available here</p>
             </a>
-        </td>
-        <td>
-            <h2>CAT+ West Hub</h2>
-            <a href="https://swisscatplus.ethz.ch/">
-                <img width="250" src="https://images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/1612194782934-KB2PY51M21A38OIE7SQT/ETHZ+city.jpg">
-            </a>
-            <div style="text-align: center">CAT+ East, located at the Eidgenössische Technische Hochschule Zürich (ETHZ), focuses on heterogeneous catalysts R&D.</div>
         </td>
     </tr>
 </table>
