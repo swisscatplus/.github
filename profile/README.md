@@ -1,11 +1,8 @@
 # Swiss Cat+ West Hub deposit
-
-<table style="border: none;">
-    <tr>
-        <td><img width="200px" src="https://images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/d7731755-2fa3-4548-bf1e-5a25182d67ae/Combined+Logo+CAT-ETH-EPFL+%282%29.png?format=1500w"></td>
-        <td>A data-driven robotized high-throughput research infrastructure for catalysts discovery and optimization</td>
-    </tr>
-</table>
+<tr>
+    <td><img width="200px" src="https://images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/d7731755-2fa3-4548-bf1e-5a25182d67ae/Combined+Logo+CAT-ETH-EPFL+%282%29.png?format=1500w"></td>
+    <td>A data-driven robotized high-throughput research infrastructure for catalysts discovery and optimization</td>
+</tr>
 
 ## Our Mission
 
