@@ -44,11 +44,6 @@
 
 <div>
     <h2>Articles references<h2>
-    GLAS scheduling architecture&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jean-Charles Cousty; Tanguy Cavagna; Alec Schmidt; Edy Mariano;
-Keyan Villat; Florian de Nanteuil; Pascal Miéville, Digital Discovery,
-2024,3, 2434-2447, DOI: 10.1039/D4DD00253A
-    2D drone swarm and robot scheduler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al.
-The 2D-drone swarm, a safe open-source sample transfer system
-for laboratory full automaDon. ChemRxiv. 2025; DOI:
-10.26434/chemrxiv-2025-8x3zv
-    </div>
+    <b>GLAS scheduling architecture</b> : Jean-Charles Cousty; Tanguy Cavagna; Alec Schmidt; Edy Mariano; Keyan Villat; Florian de Nanteuil; Pascal Miéville, Digital Discovery,2024,3, 2434-2447, DOI: 10.1039/D4DD00253A
+    <b>2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; DOI:10.26434/chemrxiv-2025-8x3zv
+</div>
