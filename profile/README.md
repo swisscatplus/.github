@@ -11,7 +11,6 @@
 <table style="border: none;">
     <tr>
         <td>
-            <h2>CAT+ West Hub</h2>
             <a href="https://www.epfl.ch/research/facilities/swisscat/">
                 <img width="250" src="https://images.squarespace-cdn.com/content/v1/6012a0a1f4c67c587a8eff67/1612194758597-UAVG9IIBRMXHMYQXDAF3/EPFL_campus_2017-1920x1080.jpg">
             </a>
