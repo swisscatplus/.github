@@ -34,7 +34,9 @@
             </div>
         </td>
         <td>
-            
+        <a href="https://www.epfl.ch/research/facilities/swisscat/">
+                <img width="250" src="https://www.epfl.ch/research/facilities/swisscat/wp-content/uploads/Tout-labo-3D-Cad-1024x248.png">
+            </a>
         </td>
     </tr>
 </table>
