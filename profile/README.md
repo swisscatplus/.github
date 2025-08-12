@@ -17,9 +17,6 @@
         </td>
         <td>
             <div style="text-align: center">Located within the Ecole Polytechnique Federale de Lausanne (EPFL) premises, <a href="https://www.epfl.ch/research/facilities/swisscat/">Swiss Cat+ West hub</a> focuses on <b>homogeneous</b> catalysis.</div>
-            <a href="https://swisscatplus.github.io/lab_doc.github.io/">
-                <p>Our documentation is available here</p>
-            </a>
         </td>
     </tr>
     <tr>
