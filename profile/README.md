@@ -43,7 +43,7 @@
     <h2>Articles references</h2>
     <div></div>
     <div>
-    <b>Swiss CAT+, a Data-Driven Infrastructure for Accelerated Catalysts Discovery and Optimization</b> : P. Laveille, P. Mi´eville, S. Chatterjee, E. Clerc, J.-C. Cousty, F. de Nanteuil, E. Lam, E. Mariano, A. Ramirez, U. Randrianarisoa, K. Villat, C. Copéret and N. Cramer, Chimia, 2023, 77(3),154–158, <a href="https://www.doi.org/10.2533/chimia.2023.154">DOI: 10.2533/chimia.2023.154.</a>
+    <b>Swiss CAT+, a Data-Driven Infrastructure for Accelerated Catalysts Discovery and Optimization</b> : P. Laveille, P. Miéville, S. Chatterjee, E. Clerc, J.-C. Cousty, F. de Nanteuil, E. Lam, E. Mariano, A. Ramirez, U. Randrianarisoa, K. Villat, C. Copéret and N. Cramer, Chimia, 2023, 77(3),154–158, <a href="https://www.doi.org/10.2533/chimia.2023.154">DOI: 10.2533/chimia.2023.154.</a>
     </div>
     <br>
     <div>
