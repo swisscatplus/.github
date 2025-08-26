@@ -81,4 +81,8 @@
     <div>
     <b>📖 Polycondensation as a Universal Method for Preparing High‐Density Single‐Atom Catalyst Libraries </b> : Schmidt, J.C., Romano‐deGea, J., Stoian, D.C., Mensi, M., Chang, M., Serban, A., Waiba, S., Wu, X., Frederiksen, L.E., Somerville, R.J. and Turnell‐Ritson, R.C., 2025. Advanced Materials, p.2507627. <a href="https://doi.org/10.1002/adma.202507627">DOI:10.1002/adma.202507627</a>
     </div> 
+    <br>
+    <div>
+    <b>📖 Modern Automation in Organic Synthesis Laboratories. </b> : Miéville, Pascal & Nanteuil, Florian. (2024).  10.1016/B978-0-323-96025-0.00047-8. <a href="http://dx.doi.org/10.1016/B978-0-323-96025-0.00047-8">DOI:10.1016/B978-0-323-96025-0.00047-8</a>
+    </div>
 </div>
