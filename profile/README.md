@@ -59,11 +59,13 @@
     <div>
     <b>2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-8x3zv">DOI:10.26434/chemrxiv-2025-8x3zv</a>
     <br>
-    <b>Robot mobile -> </b><a href="https://github.com/swisscatplus/glas/wiki">CLICK HERE</a>
+    <b>Mobile robot : ROS2 Python code for Docker-deployed lab robot localization on a Raspberry Pi 5 -> </b><a href="https://github.com/swisscatplus/EM_onrobot">CLICK HERE</a>
     <br>
-    <b>Path planning -> </b><a href="https://github.com/swisscatplus/glas">CLICK HERE</a>
+    <b>Path planning : All the code for path planning to support the EM project in SwissCat+ -> </b><a href="https://github.com/swisscatplus/EM_pathplanning">CLICK HERE</a>
     <br>
-    <b>Fleet Manager -> </b><a href="https://github.com/swisscatplus/glas-web-client">CLICK HERE</a>**
+    <b>Fleet Manager : Autonomous fleet manager piloting mobile robots for chemical transfer within a laboratory -> </b><a href="https://github.com/swisscatplus/EM_fleetmanager">CLICK HERE</a>
+    <br>
+    <b>Simulator : Currently using ign gazebo to test EdyMobile path planning algorithms -> </b><a href="https://github.com/swisscatplus/EM_simulator">CLICK HERE</a>
     </div>
     <br>
     <div>
