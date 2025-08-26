@@ -67,13 +67,11 @@
     </div>
     <br>
     <div>
-    <b>2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-8x3zv">DOI:10.26434/chemrxiv-2025-8x3zv</a>
+    <b>A FAIR Research Data Infrastructure for High-Throughput Digital Chemistry</b> : Alice Gauthier, Laure Vancauwenberghe, Jean-Charles Cousty, Cyril Matthey-doret, Robin Franken, Sabine Maennel, Pascal Miéville and Oksana Riba Grognuz. Digital Discovery. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-8x3zv">DOI:10.26434/chemrxiv-2025-8x3zv</a>
     <br>
-    <b>Robot mobile -> </b><a href="https://github.com/swisscatplus/glas/wiki">CLICK HERE</a>
+    <b>Catplus Ontology -> </b><a href="https://github.com/swisscatplus/catplus-ontology">CLICK HERE</a>
     <br>
-    <b>Path planning -> </b><a href="https://github.com/swisscatplus/glas">CLICK HERE</a>
-    <br>
-    <b>Fleet Manager -> </b><a href="https://github.com/swisscatplus/glas-web-client">CLICK HERE</a>
+    <b>Catplus Converters -> </b><a href="https://github.com/swisscatplus/catplus-converters">CLICK HERE</a>
     </div>
     <br>
     <div>
