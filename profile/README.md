@@ -45,9 +45,9 @@
     <div>
     <b>GLAS scheduling architecture</b> : Jean-Charles Cousty; Tanguy Cavagna; Alec Schmidt; Edy Mariano; Keyan Villat; Florian de Nanteuil; Pascal Miéville, Digital Discovery,2024,3, 2434-2447, <a href="https://www.doi.org/10.1039/d4dd00253a">DOI:10.1039/D4DD00253A</a>
     <br>
-    <b>GLAS repository</b><a href="https://github.com/swisscatplus/glas">CLICK HERE</a>
+    <b>GLAS repository -> </b><a href="https://github.com/swisscatplus/glas">CLICK HERE</a>
     <br>
-    <b>GLAS Web repository</b><a href="https://github.com/swisscatplus/glas-web-client">CLICK HERE</a>
+    <b>GLAS Web repository -> </b><a href="https://github.com/swisscatplus/glas-web-client">CLICK HERE</a>
     </div>
     <br>
     <div>
