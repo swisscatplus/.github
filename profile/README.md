@@ -43,6 +43,10 @@
     <h2>Articles references</h2>
     <div></div>
     <div>
+    <b>Swiss CAT+, a Data-Driven Infrastructure for Accelerated Catalysts Discovery and Optimization</b> : P. Laveille, P. Mi´eville, S. Chatterjee, E. Clerc, J.-C. Cousty, F. de Nanteuil, E. Lam, E. Mariano, A. Ramirez, U. Randrianarisoa, K. Villat, C. Cop´eret and N. Cramer, Chimia, 2023, 77(3),154–158, <a href="https://www.doi.org/10.2533/chimia.2023.154">DOI: 10.2533/chimia.2023.154.</a>
+    </div>
+    <br>
+    <div>
     <b>GLAS scheduling architecture</b> : Jean-Charles Cousty; Tanguy Cavagna; Alec Schmidt; Edy Mariano; Keyan Villat; Florian de Nanteuil; Pascal Miéville, Digital Discovery,2024,3, 2434-2447, <a href="https://www.doi.org/10.1039/d4dd00253a">DOI:10.1039/D4DD00253A</a>
     <br>
     <b>GLAS repository -> </b><a href="https://github.com/swisscatplus/glas">CLICK HERE</a>
