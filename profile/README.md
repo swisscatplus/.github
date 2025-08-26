@@ -43,19 +43,40 @@
     <h2>Articles references</h2>
     <div></div>
     <div>
-    <b>Swiss CAT+, a Data-Driven Infrastructure for Accelerated Catalysts Discovery and Optimization</b> : P. Laveille, P. Mi´eville, S. Chatterjee, E. Clerc, J.-C. Cousty, F. de Nanteuil, E. Lam, E. Mariano, A. Ramirez, U. Randrianarisoa, K. Villat, C. Cop´eret and N. Cramer, Chimia, 2023, 77(3),154–158, <a href="https://www.doi.org/10.2533/chimia.2023.154">DOI: 10.2533/chimia.2023.154.</a>
+    <b>Swiss CAT+, a Data-Driven Infrastructure for Accelerated Catalysts Discovery and Optimization</b> : P. Laveille, P. Mi´eville, S. Chatterjee, E. Clerc, J.-C. Cousty, F. de Nanteuil, E. Lam, E. Mariano, A. Ramirez, U. Randrianarisoa, K. Villat, C. Copéret and N. Cramer, Chimia, 2023, 77(3),154–158, <a href="https://www.doi.org/10.2533/chimia.2023.154">DOI: 10.2533/chimia.2023.154.</a>
     </div>
     <br>
     <div>
     <b>GLAS scheduling architecture</b> : Jean-Charles Cousty; Tanguy Cavagna; Alec Schmidt; Edy Mariano; Keyan Villat; Florian de Nanteuil; Pascal Miéville, Digital Discovery,2024,3, 2434-2447, <a href="https://www.doi.org/10.1039/d4dd00253a">DOI:10.1039/D4DD00253A</a>
     <br>
     <b>GLAS Wiki -> </b><a href="https://github.com/swisscatplus/glas/wiki">CLICK HERE</a>
+    <br>
     <b>GLAS repository -> </b><a href="https://github.com/swisscatplus/glas">CLICK HERE</a>
     <br>
     <b>GLAS Web repository -> </b><a href="https://github.com/swisscatplus/glas-web-client">CLICK HERE</a>
     </div>
     <br>
     <div>
-    <b>2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; DOI:10.26434/chemrxiv-2025-8x3zv
+    <b>2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-8x3zv">DOI:10.26434/chemrxiv-2025-8x3zv</a>
+    <br>
+    <b>Robot mobile -> </b><a href="https://github.com/swisscatplus/glas/wiki">CLICK HERE</a>
+    <br>
+    <b>Path planning -> </b><a href="https://github.com/swisscatplus/glas">CLICK HERE</a>
+    <br>
+    <b>Fleet Manager -> </b><a href="https://github.com/swisscatplus/glas-web-client">CLICK HERE</a>**
     </div>
+    <br>
+    <div>
+    <b>2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-8x3zv">DOI:10.26434/chemrxiv-2025-8x3zv</a>
+    <br>
+    <b>Robot mobile -> </b><a href="https://github.com/swisscatplus/glas/wiki">CLICK HERE</a>
+    <br>
+    <b>Path planning -> </b><a href="https://github.com/swisscatplus/glas">CLICK HERE</a>
+    <br>
+    <b>Fleet Manager -> </b><a href="https://github.com/swisscatplus/glas-web-client">CLICK HERE</a>
+    </div>
+    <br>
+    <div>
+    <b>Polycondensation as a Universal Method for Preparing High‐Density Single‐Atom Catalyst Libraries </b> : Schmidt, J.C., Romano‐deGea, J., Stoian, D.C., Mensi, M., Chang, M., Serban, A., Waiba, S., Wu, X., Frederiksen, L.E., Somerville, R.J. and Turnell‐Ritson, R.C., 2025. Advanced Materials, p.2507627. <a href="https://doi.org/10.1002/adma.202507627">DOI:10.1002/adma.202507627</a>
+    </div> 
 </div>
