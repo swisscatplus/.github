@@ -59,7 +59,7 @@
     <div>
     <b>📖 2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-8x3zv">DOI:10.26434/chemrxiv-2025-8x3zv</a>
     <br>
-    <b>Mobile robot</b> : ROS2 Python code for Docker-deployed lab robot localization on a Raspberry Pi 5 -> <a href="https://github.com/swisscatplus/EM_onrobot">CLICK HERE</a>
+    <b>Mobile robot</b> : Dockerized ROS 2 (Humble) Python stack for onboard localization and control of the SwissCat+ mobile robot. -> <a href="https://github.com/swisscatplus/EM_onrobot">CLICK HERE</a>
     <br>
     <b>Path planning</b> : All the code for path planning to support the EM project in SwissCat+ -> <a href="https://github.com/swisscatplus/EM_pathplanning">CLICK HERE</a>
     <br>
