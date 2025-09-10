@@ -59,13 +59,13 @@
     <div>
     <b>📖 2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-8x3zv">DOI:10.26434/chemrxiv-2025-8x3zv</a>
     <br>
-    <b>Mobile robot</b> : Dockerized ROS 2 (Humble) Python stack for onboard localization and control of the SwissCat+ mobile robot. -> <a href="https://github.com/swisscatplus/EM_onrobot">CLICK HERE</a>
+    <b>Mobile robot</b> : Onboard localization and control of the SwissCat+ mobile robot. -> <a href="https://github.com/swisscatplus/EM_onrobot">CLICK HERE</a>
     <br>
-    <b>Path planning</b> : All the code for path planning to support the EM project in SwissCat+ -> <a href="https://github.com/swisscatplus/EM_pathplanning">CLICK HERE</a>
+    <b>Path planning</b> : Path planning and tracking for the SwissCat+ mobile robot -> <a href="https://github.com/swisscatplus/EM_pathplanning">CLICK HERE</a>
     <br>
-    <b>Fleet Manager</b> : Autonomous fleet manager piloting mobile robots for chemical transfer within a laboratory -> <a href="https://github.com/swisscatplus/EM_fleetmanager">CLICK HERE</a>
+    <b>Fleet Manager</b> : Lab map distribution and ArUco marker–based localization for multi-robot coordination -> <a href="https://github.com/swisscatplus/EM_fleetmanager">CLICK HERE</a>
     <br>
-    <b>Simulator</b> : Currently using ign gazebo to test EdyMobile path planning algorithms -> <a href="https://github.com/swisscatplus/EM_simulator">CLICK HERE</a>
+    <b>Simulator</b> : ROS 2 Gazebo simulation for testing and validating Mobile Robot behaviors in diverse lab scenarios. -> <a href="https://github.com/swisscatplus/EM_simulator">CLICK HERE</a>
     </div>
     <br>
     <div>
