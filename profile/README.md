@@ -65,7 +65,7 @@
     <br>
     <b>Fleet Manager</b> : Lab map distribution and ArUco marker–based localization for multi-robot coordination -> <a href="https://github.com/swisscatplus/EM_fleetmanager">CLICK HERE</a>
     <br>
-    <b>Simulator</b> : ROS 2 Gazebo simulation for testing and validating Mobile Robot behaviors in diverse lab scenarios. -> <a href="https://github.com/swisscatplus/EM_simulator">CLICK HERE</a>
+    <b>Simulator</b> : ROS 2 Gazebo simulation for testing and validating Mobile Robot behaviors in diverse lab scenarios. -> <a href="https://github.com/swisscatplus/EM_server">CLICK HERE</a>
     </div>
     <br>
     <div>
