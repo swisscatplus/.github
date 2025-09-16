@@ -79,7 +79,7 @@
     </div>
     <br>
     <div>
-    <b>📖 Polycondensation as a Universal Method for Preparing High‐Density Single‐Atom Catalyst Libraries </b> : Schmidt, J.C., Romano‐deGea, J., Stoian, D.C., Mensi, M., Chang, M., Serban, A., Waiba, S., Wu, X., Frederiksen, L.E., Somerville, R.J. and Turnell‐Ritson, R.C., 2025. Advanced Materials, p.2507627. <a href="https://doi.org/10.1002/adma.202507627">DOI:10.1002/adma.202507627</a>
+    <b>📖 Polycondensation as a Universal Method for Preparing High‐Density Single‐Atom Catalyst Libraries </b> : Jaques-Christopher Schmidt, Jan Romano-deGea, Dragos C. Stoian, Mounir Mensi,Miyeon Chang, Ariana Serban, Satyadeep Waiba, Xinbang Wu, Lindsey E. K. Frederiksen,Rosie J. Somerville, Roland C. Turnell-Ritson, Xunhui Wang, Laura Piveteau, Daniel Ortiz,Niccolò Martinolli, David Reyes, Jordi Espín, Timo M. O. Felder, Stefano Di Leone,Pascal Miéville, Shoubhik Das,* and Paul J. Dyson*, 2025. Advanced Materials, p.2507627. <a href="https://doi.org/10.1002/adma.202507627">DOI:10.1002/adma.202507627</a>
     </div> 
     <br>
     <div>
