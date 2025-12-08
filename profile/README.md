@@ -69,7 +69,7 @@
     </div>
     <br>
     <div>
-    <b>📖 A FAIR Research Data Infrastructure for High-Throughput Digital Chemistry</b> : Alice Gauthier, Laure Vancauwenberghe, Jean-Charles Cousty, Cyril Matthey-doret, Robin Franken, Sabine Maennel, Pascal Miéville and Oksana Riba Grognuz. Digital Discovery. 2025; <a href="https://doi.org/10.26434/chemrxiv-2025-8x3zv">DOI:10.26434/chemrxiv-2025-8x3zv</a>
+    <b>📖 A FAIR Research Data Infrastructure for High-Throughput Digital Chemistry</b> : Alice Gauthier, Laure Vancauwenberghe, Jean-Charles Cousty, Cyril Matthey-doret, Robin Franken, Sabine Maennel, Pascal Miéville and Oksana Riba Grognuz. Digital Discovery. 2025; <a href="https://doi.org/10.1039/D5DD00297D">DOI:10.1039/D5DD00297D</a>
     <br>
     <b>Catplus Ontology -> </b><a href="https://github.com/swisscatplus/catplus-ontology">CLICK HERE</a>
     <br>
