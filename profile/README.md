@@ -57,7 +57,7 @@
     </div>
     <br>
     <div>
-    <b>📖 2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. ChemRxiv. 2025; <a href="https://doi.org/10.1039/D5DD00342C">DOI:10.1039/D5DD00342C</a>
+    <b>📖 2D drone swarm and robot scheduler</b> : Mariano E, Coderey Y, El Goumi Y, Tan J, Cavagna T, Cousty J-C, et al. The 2D-drone swarm, a safe open-source sample transfer system for laboratory full automaDon. Digital Discovery. 2025; <a href="https://doi.org/10.1039/D5DD00342C">DOI:10.1039/D5DD00342C</a>
     <br>
     <b>Mobile robot</b> : Onboard localization and control of the SwissCat+ mobile robot. -> <a href="https://github.com/swisscatplus/EM_onrobot">CLICK HERE</a>
     <br>
