@@ -87,6 +87,6 @@
     </div>
     <br>
     <div>
-    <b>📖 Modern Automation in Organic Synthesis Laboratories. </b> : Mariano E., Löwensberg M., Bloesch T., Costanzo G.T., Miéville P. (2026). <a href="http://dx.doi.org/10.1016/B978-0-323-96025-0.00047-8">DOI:10.1016/j.slast.2026.100463/a>
+    <b>📖 Robotic safety in self-driving laboratories. </b> : Mariano E., Löwensberg M., Bloesch T., Costanzo G.T., Miéville P. (2026). <a href="https://doi.org/10.1016/j.slast.2026.100463">DOI:10.1016/j.slast.2026.100463/a>
     </div>
 </div>
