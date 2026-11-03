@@ -85,4 +85,8 @@
     <div>
     <b>📖 Modern Automation in Organic Synthesis Laboratories. </b> : Miéville, Pascal & Nanteuil, Florian. (2024).  10.1016/B978-0-323-96025-0.00047-8. <a href="http://dx.doi.org/10.1016/B978-0-323-96025-0.00047-8">DOI:10.1016/B978-0-323-96025-0.00047-8</a>
     </div>
+    <br>
+    <div>
+    <b>📖 Modern Automation in Organic Synthesis Laboratories. </b> : Mariano E., Löwensberg M., Bloesch T., Costanzo G.T., Miéville P. (2026). <a href="http://dx.doi.org/10.1016/B978-0-323-96025-0.00047-8">DOI:10.1016/j.slast.2026.100463/a>
+    </div>
 </div>
